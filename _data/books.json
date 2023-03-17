@@ -1,0 +1,49 @@
+[
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"name": "Doglapan",
+		"description": "It is an book dedicated to business tycoon ashneer grover",
+        "author": "ashneer grover",
+		"phone": "766602861",
+		"email": "bookstore@devworks.com",
+		"subjects": ["business", "finance", "entrepreneurship"]
+	},
+	{
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be046",
+		"name": "Ramayana",
+		"description": "All about lord ram",
+		"author": "valmiki",
+		"phone": "9082584239",
+		"email": "ramayanstory@tech.com",
+		"subjects": ["Ayodhya", "lanka", "vanarsena"]
+	},
+	{
+		
+		"_id": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031",
+		"name": "Mechanics",
+		"description": "First year engineering mechanics book",
+		"author": "NH dubey",
+		"phone": "9769480240",
+		"email": "dubey@mech.com",
+		"subjects": ["thrust", "resolving", "pulley"]
+	},
+	{
+		
+		"_id": "5d725a1b7b292f5f8ceff788",
+		"user": "5c8a1d5b0190b214360dc032",
+		"name": "Maths 2",
+		"description": "First year engineering maths book",
+		"author": "Kumbojkar",
+		"phone": "9930109522",
+		"email": "kumbojkar@maths.com",
+		"subjects": ["derivation", "integration", "combination"]
+	}
+]
+
+        
+
+
+        
